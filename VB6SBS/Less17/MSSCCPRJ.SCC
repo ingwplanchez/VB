@@ -1,0 +1,30 @@
+[SCC]
+SCC=This is a source code control file
+
+[PlayTune.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[RunVideo.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[PlayCD.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[EJECUT~1.VBP]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[ReprodCD.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[ReprodSon.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+
+[EjecutarVideo.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>

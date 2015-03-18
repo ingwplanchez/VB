@@ -1,0 +1,2 @@
+Línea 29: la clase ComctlLib.ProgressBar del control pgbVirtMem no era una clase de control cargada.
+Línea 40: la clase ComctlLib.ProgressBar del control pgbPhysMem no era una clase de control cargada.

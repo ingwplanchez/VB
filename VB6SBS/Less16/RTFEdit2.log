@@ -1,0 +1,11 @@
+Line 17: Class ComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 61: Class ComctlLib.Slider of control Slider1 was not a loaded control class.
+Line 24: The property name _ExtentX in StatusBar1 is invalid.
+Line 25: The property name _ExtentY in StatusBar1 is invalid.
+Line 26: The property name _Version in StatusBar1 is invalid.
+Line 59: The property name Panels in StatusBar1 is invalid.
+Line 67: The property name _ExtentX in Slider1 is invalid.
+Line 68: The property name _ExtentY in Slider1 is invalid.
+Line 69: The property name _Version in Slider1 is invalid.
+Line 70: The property name LargeChange in Slider1 is invalid.
+Line 71: The property name TickFrequency in Slider1 is invalid.
